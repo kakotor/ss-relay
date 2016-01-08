@@ -1,4 +1,4 @@
-FROM haproxy:1.5
+FROM haproxy:1.6
 MAINTAINER XGFan
 
 EXPOSE 8085 8086
